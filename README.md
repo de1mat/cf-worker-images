@@ -44,3 +44,4 @@ This is a standard file for Cloudflare workers, where you specify configuration 
 ## Notes
 
 1. This project relies on your website's images having file extensions (eg gif, jpg, png) so it can identify the type of image. If your images don't have extensions, then they won't be transformed at all.
+2. Related blog post: https://syncwith.com/blog/website-image-optimization-cloudflare-cloudinary
